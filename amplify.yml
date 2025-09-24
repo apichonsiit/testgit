@@ -3,7 +3,7 @@ frontend:
   phases:
     build:
       commands:
-        - echo "No build step needed"
+        - echo "No build step needed2"
   artifacts:
     baseDirectory: src
     files:
